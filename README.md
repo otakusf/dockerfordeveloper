@@ -14,7 +14,7 @@ todos los participantes trabajar en un entorno idéntico sin instalar
 dependencias manualmente en su sistema operativo.
 
 ------------------------------------------------------------------------
-
+ 
 # 📚 Contenido del Taller
 
 1.  Introducción a Docker
@@ -129,10 +129,10 @@ cd taller-devcontainers
 
     taller-devcontainers
     │
-    ├── frontend-angular
+    ├── ngx-rrhh
     │   └── .devcontainer
     │
-    ├── backend-quarkus
+    ├── ms-rrhh
     │   └── .devcontainer
     │
     └── README.md
@@ -147,8 +147,8 @@ Cada proyecto contiene su propio **DevContainer** configurado.
 
 Abrir cualquiera de las carpetas:
 
--   `frontend-angular`
--   `backend-quarkus`
+-   `ngx-rrhh - frontend`
+-   `ms-rrhh  - backend`
 
 ------------------------------------------------------------------------
 
@@ -254,3 +254,4 @@ Para evitar retrasos durante el taller:
 # 👨‍💻 Autor
 
 Taller de **Docker + DevContainers para desarrollo moderno**.
+Ing. Freddy Santacruz
