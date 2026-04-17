@@ -201,6 +201,8 @@ Dentro del contenedor:
 
 ``` bash
 ./mvnw quarkus:dev
+ó
+mvn quarkus:dev
 ```
 
 Disponible en:
