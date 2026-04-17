@@ -199,6 +199,11 @@ http://localhost:4200
 
 Dentro del contenedor:
 
+``` persimos al wordspace
+sudo chown -R vscode:vscode /workspace
+sudo chmod 777 mvnw
+```
+
 ``` bash
 ./mvnw quarkus:dev
 ó
@@ -207,7 +212,7 @@ mvn quarkus:dev
 
 Disponible en:
 
-http://localhost:8080
+http://localhost:8080/q/dev-ui
 
 ------------------------------------------------------------------------
 
