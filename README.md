@@ -114,13 +114,13 @@ https://git-scm.com/downloads
 # 📥 Clonar el repositorio del taller
 
 ``` bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/otakusf/dockerfordeveloper.git
 ```
 
 Entrar al repositorio:
 
 ``` bash
-cd taller-devcontainers
+cd dockerfordeveloper
 ```
 
 ------------------------------------------------------------------------
